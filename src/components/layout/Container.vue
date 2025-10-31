@@ -5,5 +5,5 @@
 </template>
 
 <script setup>
-defineProps({ className: { type: String, default: '' } })
+defineProps({ className: { type: String, default: "" } });
 </script>

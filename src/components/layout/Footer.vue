@@ -4,7 +4,10 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
           <h3 class="text-xl font-bold mb-4">TicketFlow</h3>
-          <p class="text-gray-400 text-sm">Streamline your ticket management with our powerful and intuitive platform.</p>
+          <p class="text-gray-400 text-sm">
+            Streamline your ticket management with our powerful and intuitive
+            platform.
+          </p>
         </div>
         <div>
           <h4 class="font-semibold mb-4">Quick Links</h4>
@@ -17,14 +20,20 @@
         </div>
         <div>
           <h4 class="font-semibold mb-4">Contact</h4>
-          <p class="text-sm text-gray-400">Email: support@ticketflow.com<br/>Phone: +1 (555) 123-4567</p>
+          <p class="text-sm text-gray-400">
+            Email: support@ticketflow.com<br />Phone: +1 (555) 123-4567
+          </p>
         </div>
       </div>
-      <div class="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">© 2025 TicketFlow. All rights reserved.</div>
+      <div
+        class="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400"
+      >
+        © 2025 TicketFlow. All rights reserved.
+      </div>
     </Container>
   </footer>
 </template>
 
 <script setup>
-import Container from './Container.vue'
+import Container from "./Container.vue";
 </script>
