@@ -2,6 +2,9 @@
 
 TicketFlow is a lightweight ticket management frontend built with Vue 3 and Vite — a small, local demo app inspired by the React implementation (converted to Vue). It includes routing, a simple local-storage based auth flow, toast notifications, and Tailwind CSS for styling.
 
+## Go live
+hng13-stage2-frontend-vue-xi.vercel.app
+
 ## Features
 
 - Landing + hero with curved background and CTA
